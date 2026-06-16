@@ -3,7 +3,7 @@
 # ═══════════════════════════════════════════
 
 # Путь к папке с PDF-файлами
-PDF_FOLDER = r"C:\Users\voxhr\OneDrive\Рабочий стол\1"
+PDF_FOLDER = r"C:\Users\voxhr\OneDrive\Рабочий стол\Цымб\kbn"
 
 # Путь к исполняемому файлу Ollama
 OLLAMA_EXE = r"C:\Users\voxhr\AppData\Local\Programs\Ollama\ollama.exe"
